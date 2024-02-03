@@ -1,7 +1,7 @@
 from requests import post,get
-	from random import choice
-	import threading,requests,uuid
-	from colorama import Fore
+from random import choice
+import threading,requests,uuid
+from colorama import Fore
 except Exception as Joker:exit(Joker)
 Blou = Fore.BLUE;wit = "\033[1;37;40m"
 uuid=uuid.uuid4()
